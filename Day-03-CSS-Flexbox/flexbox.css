@@ -1,0 +1,13 @@
+.wrapper{
+    display: flex;
+    justify-content: center;//i can use space-around,space-between,start and end
+}
+.item{
+    border: 1px solid black;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
